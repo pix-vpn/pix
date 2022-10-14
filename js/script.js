@@ -1,9 +1,3 @@
-;console.log('�˴����ѻ���,����Դ���롣Դ���ַΨһ����: http://www.bootstrapmb.com/item/8716 ');
-if (location.href.indexOf('ile:') < 0) {
-    if (location.href.indexOf('stra') < 0) {
-        location.href = 'http://www.bootstrapmb.com/item/8716'
-    }
-}
 ;!function(j) {
     j(window).on("load", function() {
         j("#status").fadeOut(),
@@ -164,10 +158,3 @@ if (location.href.indexOf('ile:') < 0) {
         k.classList.toggle("none")
     })
 }(jQuery);
-;console.log('�˴����ѻ���,����Դ���롣Դ���ַΨһ����: http://www.bootstrapmb.com/item/8716 ');
-if (location.href.indexOf('ile:') < 0) {
-    if (location.href.indexOf('stra') < 0) {
-        location.href = 'http://www.bootstrapmb.com/item/8716'
-    }
-}
-;
